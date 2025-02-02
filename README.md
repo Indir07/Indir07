@@ -16,11 +16,6 @@
 - **Tools & Platforms:** Git, Linux, Docker, Airflow, Microsoft Azure  
 - **Databases:** MySQL, PostgreSQL, MongoDB  
 
-## 🔹 Projects  
-🔹 **[Laptop Bag Store](#)** - Customized Shopify website for laptop bags.  
-🔹 **[ETL Pipeline with PySpark](#)** - Financial data transformation and processing.  
-🔹 **[React-Based Web App](#)** - Learning React through real-world applications.  
-
 ## 🔹 Let's Connect!  
 - 💼 **[LinkedIn](www.linkedin.com/in/indir-lal)**  
 - 📧 **Email:** [your-email@example.com](mailto:indirlal4516@gmail.com)  
