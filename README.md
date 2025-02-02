@@ -18,7 +18,7 @@
 
 ## 🔹 Let's Connect!  
 - 💼 **[LinkedIn](www.linkedin.com/in/indir-lal)**  
-- 📧 **Email:** [your-email@example.com](mailto:indirlal4516@gmail.com)  
+- 📧 **Email:** [Email](mailto:indirlal4516@gmail.com)  
 - 🖥️ **[GitHub](https://github.com/Indir07)**  
 
 🚀 Always open to collaboration and learning!  
