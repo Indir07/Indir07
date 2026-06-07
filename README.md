@@ -20,7 +20,7 @@
 
 ## 🚀 Featured Projects & Experience  
 - **CryptoVolt (AI Algorithmic Trading):** Developed a trading platform utilizing AI, custom model training logic, and integrated sentiment analysis capabilities.  
-- **Massive-Scale Data Harmonization:** Engineered an ELT processing solution utilizing Google BigQuery and GCS to successfully merge and deduplicate a 137-million-row dataset.  
+- **Massive-Scale Data Harmonization:** Engineered an ELT processing solution utilizing Google BigQuery and GCS to successfully merge and deduplicate a 400+-million-row dataset.  
 - **Fraud Detection Lakehouse:** Designed and managed a data lakehouse architecture geared specifically toward FinTech analytics and fraud detection.  
 
 ## 🔹 Let's Connect!  
