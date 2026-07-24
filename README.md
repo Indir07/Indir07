@@ -2,10 +2,8 @@
 ### 🚀 Data Engineer | Big Data Specialist | ETL/ELT Architect  
 
 <p align="left">
-  <a href="https://github.com/Indir07"><img src="https://komarev.com/ghpvc/?username=Indir07&label=Profile%20Views&color=0e75b6&style=flat" alt="Indir07" /></a>
   <a href="https://www.linkedin.com/in/indir-lal"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:indirlal4516@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-red?logo=gmail&logoColor=white" /></a>
-  <a href="https://www.fiverr.com/"><img src="https://img.shields.io/badge/Fiverr-Level%201%20Seller-1DBF73?logo=fiverr&logoColor=white" /></a>
+  <a href="mailto:indir.lal.degmail.com"><img src="https://img.shields.io/badge/Email-Contact-red?logo=gmail&logoColor=white" /></a>
 </p>
 
 ---
@@ -94,12 +92,6 @@ My work centers on designing reliable **ETL/ELT pipelines**, optimizing distribu
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Indir07&theme=tokyonight&hide_border=true&layout=compact)
 
 ---
-
-## 🤝 Let’s Connect
-
-- 💼 LinkedIn: **[linkedin.com/in/indir-lal](https://www.linkedin.com/in/indir-lal)**
-- 📧 Email: **[indirlal4516@gmail.com](mailto:indirlal4516@gmail.com)**
-- 🖥️ GitHub: **[github.com/Indir07](https://github.com/Indir07)**
 
 ---
 
